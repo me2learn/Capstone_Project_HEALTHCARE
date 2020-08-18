@@ -13,7 +13,7 @@ The dataset used in this project is originally from NIDDK. The objective is to p
 
 Build a model to accurately predict whether the patients in the dataset have diabetes or not. 
 
-## CONCLUSION:
+## RESULTS ACHIEVED:
 
 Basic Logistic Regression algorithm is predicting 6 / 10 inputs correctly,
 
