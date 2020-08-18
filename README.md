@@ -1,5 +1,5 @@
 
-PROJECT | Capstone_Project_HEALTHCARE
+PROJECT: | Capstone_Project_HEALTHCARE
 -------------------------  | ------------------------------------------
 Problem Type: | Binary Classification
 Samples X Features: | 768 X 9
