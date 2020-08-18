@@ -15,8 +15,8 @@ Build a model to accurately predict whether the patients in the dataset have dia
 
 ## RESULTS ACHIEVED:
 
-Basic Logistic Regression algorithm is predicting 6 / 10 inputs correctly,
+Basic Logistic Regression algorithm is predicting **6 / 10** inputs correctly,
 
-whereas the best performing SVC algorithm is predicting 9 / 10 inputs correctly.
+whereas the best performing SVC algorithm is predicting **9 / 10** inputs correctly.
 
 
